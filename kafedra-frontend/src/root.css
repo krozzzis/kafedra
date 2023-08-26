@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+@import "~/components/Colors.css";
+
+* {
+    margin: 0;
+    font-family: Rubik, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+}

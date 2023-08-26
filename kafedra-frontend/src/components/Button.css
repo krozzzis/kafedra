@@ -1,0 +1,50 @@
+/* Button */
+
+/* Default Button */
+.button {
+    background-color: var(--white);
+    color: var(--primary1);
+    font-weight: 500;
+    font-size: 0.8rem;
+
+    cursor: pointer;
+
+    border: 2px solid var(--primary1);
+    border-radius: 16px;
+
+    min-width: 64px;
+    height: 32px;
+    padding: 4px 24px;
+
+    transition: all 0.1s;
+}
+
+.button:hover {
+    background-color: var(--primary2);
+    border-color: var(--primary2);
+    color: var(--white);
+}
+
+/* Primary Button */
+.button_primary {
+    background-color: var(--primary1);
+    border-color: var(--primary1);
+    color: var(--white);
+}
+
+.button_primary:hover {
+    background-color: var(--primary2);
+    border-color: var(--primary2);
+}
+
+/* Danger Button */
+.button_danger {
+    background-color: var(--red1);
+    border-color: var(--red1);
+    color: var(--white);
+}
+
+.button_danger:hover {
+    background-color: var(--red2);
+    border-color: var(--red2);
+}
