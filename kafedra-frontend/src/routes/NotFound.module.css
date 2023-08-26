@@ -1,12 +1,11 @@
 .content {
     color: var(--primary1);
     font-weight: 300;
-    margin-top: 96px;
+    padding-top: 96px;
 }
 
 .h1, .h2 {
     font-weight: inherit;
-    margin-bottom: 16px;
     text-align: center;
 }
 
