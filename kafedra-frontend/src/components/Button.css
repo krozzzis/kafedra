@@ -23,6 +23,7 @@
     background-color: var(--primary2);
     border-color: var(--primary2);
     color: var(--white);
+    box-shadow: var(--shadow);
 }
 
 /* Primary Button */

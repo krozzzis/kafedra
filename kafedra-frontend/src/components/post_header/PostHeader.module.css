@@ -1,0 +1,11 @@
+.header {
+    display: grid;
+    gap: 8px;
+    flex-direction: row;
+    color: var(--base2);
+}
+
+.feature_list {
+    display: flex;
+    gap: 8px;
+}

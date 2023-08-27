@@ -5,8 +5,12 @@
     --blue2: #33e;
     --white: #fff;
 
+    --background: #f5f5f5;
+
     --base1: #555;
     --base2: #444;
     --primary1: #4ca1e6;
     --primary2: #2c81c6;
+
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
